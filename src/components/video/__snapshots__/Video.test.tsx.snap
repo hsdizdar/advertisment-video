@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useIntersectionObserver should play video when appears 50% 1`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should play video when appears 50% 2`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should play video when appears 50% 3`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should play video when clicked 1`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should play video when clicked 2`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should render video 1`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should video end 1`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should video end 2`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
+
+exports[`useIntersectionObserver should video end 3`] = `
+<video
+  controls=""
+  data-testid="video"
+  src="https://cdn.yoc.com/ad/demo/airbnb.mp4"
+  style="width: 100%;"
+/>
+`;
